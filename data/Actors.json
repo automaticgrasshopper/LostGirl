@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"yuxixi-shaonv","characterIndex":0,"characterName":"yuxixi-shaonv","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuxixi-shaonv","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuxixi","nickname":"","note":"<stepSound>","profile":""},
+{"id":2,"battlerName":"yuxixi-zheng","characterIndex":0,"characterName":"yuxixi-zheng","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuxixi-zheng","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuxixi","nickname":"","note":"<stepSound>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
